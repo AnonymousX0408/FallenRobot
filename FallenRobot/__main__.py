@@ -438,11 +438,10 @@ def Source_about_callback(update: Update, context: CallbackContext):
  ᴛʜɪs ɪs {BOT_NAME},
  ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝚁𝙾𝙱𝙾𝚁](https://t.me/Privates_RoBot)
-[𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝚁𝙾𝙱𝙾𝚁](https://t.me/Privates_RoBot)
-[𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝚁𝙾𝙱𝙾𝚁](https://t.me/Privates_RoBot)
-ᴀɴᴅ ᴜsɪɴɢ [𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝚁𝙾𝙱𝙾𝚁](https://t.me/Privates_RoBot) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
-
+ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)
+[ᴩʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
+[ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://github.com/python-telegram-bot/python-telegram-bot)
+ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 *ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [𝚁𝙾𝙻𝙴𝚇](https://t.me/Prime_Rolex)
 
