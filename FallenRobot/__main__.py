@@ -431,7 +431,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
 
 def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
-    if query.data == "source_":
+    if query.data == "rolexcoder":
         query.message.edit_text(
             text=f"""
 *ʜᴇʏ,
